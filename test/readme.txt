@@ -1,3 +1,2 @@
-[master (root-commit) cb926e7] wrote a readme file
- 1 file changed, 2 insertions(+)
-  create mode 100644 readme.txt
+Git is a distributed version control system.
+Git is free software.
